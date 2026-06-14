@@ -1,7 +1,32 @@
 {
-  "leaderboard": [],
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Example Player",
+      "teams": [
+        "France",
+        "USA"
+      ],
+      "points": 0
+    },
+    {
+      "rank": 2,
+      "name": "Rob",
+      "teams": [
+        "England",
+        "Japan"
+      ],
+      "points": 0
+    }
+  ],
   "matches": [],
   "events": [],
-  "insights": {},
-  "last_updated": null
+  "insights": {
+    "top_scoring_teams": [],
+    "goals_by_team": {},
+    "clean_sheets": {},
+    "wooden_spoon": "Rob",
+    "leader": "Example Player"
+  },
+  "last_updated": "2026-06-14T22:35:26.198669+00:00"
 }
