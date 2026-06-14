@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Rob",
+    "teams": ["England", "Japan"]
+  },
+  {
+    "name": "Example Player",
+    "teams": ["France", "USA"]
+  }
+]
